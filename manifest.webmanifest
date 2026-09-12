@@ -1,0 +1,9 @@
+{
+  "name": "Piddy Smalls Sound Safari",
+  "short_name": "Sound Safari",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff8ef",
+  "theme_color": "#fff8ef",
+  "icons": []
+}
